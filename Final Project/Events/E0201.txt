@@ -1,0 +1,7 @@
+*[6,5];0;000=000;P52;B
+==M2:Sign
+Left: Dragon's Lair
+Right: Slime's Lair
+==C
+
+[EE]

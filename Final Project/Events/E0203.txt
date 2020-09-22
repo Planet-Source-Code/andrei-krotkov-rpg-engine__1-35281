@@ -1,0 +1,9 @@
+*[6,9];0;000=000;P31;T
+==M2:Me
+This game is not finished.
+This is as far as you go.
+==*
+[EE]
+*[3,4];0;000=000;P72;B
+==T(099,099,4,6)
+[EE]

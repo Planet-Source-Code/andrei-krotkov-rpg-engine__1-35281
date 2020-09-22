@@ -1,0 +1,14 @@
+*[6,6];0;001=001;P21;T
+==M2:Mage
+I will help you!
+TELEPORT!!!
+==T(002,003,5,3)
+==V(001)=002
+[EE]
+*[5,6];0;000=000;P31;T
+==P("Do you want to buy something?
+==Y
+==S
+==N
+==Q
+[EE]
