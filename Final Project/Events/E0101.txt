@@ -1,0 +1,30 @@
+*[2,4];0;001=001;P11;B
+==M1:Princess
+Thank you.
+==C
+[EE]
+*[2,4];0;001=002;P11;B
+==M1:Princess
+Thank you.
+==C
+[EE]
+*[2,4];0;001=000;P11;B
+==M2:Princess
+Help me. I am trapped by the
+dragon.
+==B(001,010,008,100,1,050,Dragon
+==V(001)=001
+==M1:Princess
+Thank You. 
+==I(002,001)
+==M2:Princess
+Here is a letter I would
+like you to take to the king.
+==C
+==H(0000)
+==M1:Message
+You were healed fully.
+==C
+[EE]
+
+
